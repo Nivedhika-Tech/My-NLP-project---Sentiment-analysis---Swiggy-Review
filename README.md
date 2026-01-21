@@ -13,11 +13,6 @@ Food delivery platforms rely heavily on customer feedback. Understanding sentime
 - Packaging 📦
 - Customer support 📞
 
-## Dataset
-- Source: [Mention your dataset source – Kaggle, scraped reviews, or sample data]
-- Size: [Number of reviews]
-- Format: Text reviews with sentiment labels
-
 ## Methodology
 1. **Data Preprocessing**
    - Text cleaning (removing punctuation, stopwords, special characters)
